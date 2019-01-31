@@ -1,0 +1,65 @@
+Basic Program
+Hello Word
+What is your name: Hello Ryan
+Hello Ryan
+End Basic Program
+Variables
+Variable i has the value 120
+Variable f has the value 1.6180339 and its type is <class 'float'>
+Variable b has the value True
+Variable n has the value of None
+c has the value (10, 20, 10) and is of type: <class 'tuple'>
+ l has the value [10, 20, 30] and is of type: <class 'list'>
+Set s has the value {1, 4, 6} and is of type <class 'set'>
+{'Tom': 'A', 'Mark': 'B-', 'Anna': 'F'}
+End Variables
+Conditionals
+The value of x is 10
+The number x is positive
+End Conditionals
+Loops
+Loop for 'range(5)'
+0
+1
+2
+3
+4
+Loop for 'enumerate(range(2,10))'
+0 - 2
+1 - 3
+2 - 4
+3 - 5
+4 - 6
+5 - 7
+6 - 8
+7 - 9
+End Loops
+Functions
+The value of x is: 0
+x is even
+The value of x is: 1
+x is odd
+The value of x is: 2
+x is even
+The value of x is: 3
+x is odd
+The value of x is: 4
+x is even
+The value of x is: 5
+x is odd
+The value of x is: 6
+x is even
+The value of x is: 7
+x is odd
+The value of x is: 8
+x is even
+The value of x is: 9
+x is odd
+End Functions
+Classes
+Title: Software Engineering, ISBN: 111111
+End Classes
+Modules
+x = 100, x*x =
+10000
+End Modules
