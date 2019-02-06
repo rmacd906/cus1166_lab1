@@ -1,0 +1,31 @@
+Name: Ryan
+Grade: 95
+
+Name: Alex
+Grade: 90
+
+Name: Bob
+Grade: 86
+
+Name: Chris
+Grade: 82
+
+Name: Dale
+Grade: 78
+
+Name: Eric
+Grade: 74
+
+Name: Fred
+Grade: 76
+
+Name: Greg
+Grade: 80
+
+Name: Han
+Grade: 84
+
+Name: Ivan
+Grade: 88
+
+Average Grade: 83.3
